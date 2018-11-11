@@ -1,0 +1,12 @@
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\bin\Debug\GuiDemo.exe
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\bin\Debug\GuiDemo.pdb
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\bin\Debug\clipper_library.dll
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\bin\Debug\clipper_library.pdb
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csprojAssemblyReference.cache
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.Properties.Resources.resources
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csproj.GenerateResource.cache
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csproj.CoreCompileInputs.cache
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csproj.CopyComplete
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.exe
+D:\Prosto\C#\Clipper\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.pdb
